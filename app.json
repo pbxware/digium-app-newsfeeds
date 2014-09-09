@@ -1,0 +1,8 @@
+{
+	"name": "newsfeeds",
+	"jsFiles": ["newsfeeds.js"],
+	"iconFile"  : "app.png",
+	"type": "foreground",
+	"displayName": "Новости",
+	"hasIdle": true
+}
